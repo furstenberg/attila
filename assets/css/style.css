@@ -704,8 +704,11 @@ img {
 .credits-theme {
 	float: left;
 }
-.credits-software {
+.credits-photo {
 	float: right;
+}
+.credits-software {
+	display: block;	
 }
 
 /* ==========================================================================
